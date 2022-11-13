@@ -1,2 +1,0 @@
-# pagarchlib
-Pagirinya Architectural Library
